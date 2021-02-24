@@ -28,7 +28,7 @@ SECRET_KEY = '5$f_xemvs(u0xk2r4rq#u=#l*s2)h+4g)z_#=(rs^4x&&*a=w6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'vicky.com']
+ALLOWED_HOSTS = ['localhost', 'gceklib.herokuapp.com/']
 
 
 # Application definition
