@@ -67,5 +67,5 @@ tzlocal==2.1
 urllib3==1.25.9
 virtualenv==20.0.26
 whitenoise==5.2.0
-win10toast==0.9
+
 wrapt==1.12.1
